@@ -301,8 +301,36 @@ Before using the driver, ensure that the following conditions are satisfied:
 * Ensure that the MCP4725 supply voltage and I²C signal levels are compatible with the connected hardware.
 
 ---
+# Demo Directory Guide
 
-# 11. References
+This directory contains the files required to understand and reproduce the **MCP4725 Driver** test.
+
+## Directory Contents
+
+```text
+demo/
+│
+├── MCP4725_Demo.c
+├── MCP4725_Demo.hex
+├── MCP4725_Demo.pdsprj
+├── MCP4725_Demo_Schematic.pdf
+├── MCP4725_Demo_Flowchart.pdf
+├── MCP4725_Demo.mp4
+
+```
+
+## Files
+
+* `MCP4725_Demo.c` — Test source code
+* `MCP4725_Demo.hex` — Compiled firmware
+* `MCP4725_Demo.pdsprj` — Proteus simulation project
+* `MCP4725_Demo_Schematic.pdf` — Test schematic
+* `MCP4725_Demo_Flowchart.pdf` — Test flowchart
+* `MCP4725_Demo.mp4` — Test demonstration video
+
+---
+
+# 12. References
 
 The following documents should be consulted for detailed hardware information:
 

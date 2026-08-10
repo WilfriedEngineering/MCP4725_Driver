@@ -303,30 +303,30 @@ Before using the driver, ensure that the following conditions are satisfied:
 ---
 # Demo Directory Guide
 
-This directory contains the files required to understand and reproduce the **MCP4725 Driver** test.
+The `demo` directory contains the files required to understand and reproduce the **MCP4725 Driver** test.
 
 ## Directory Contents
 
 ```text
 demo/
 │
-├── MCP4725_Demo.c
-├── MCP4725_Demo.hex
-├── MCP4725_Demo.pdsprj
-├── MCP4725_Demo_Schematic.pdf
-├── MCP4725_Demo_Flowchart.pdf
-├── MCP4725_Demo.mp4
+├── MCP4725_main.c
+├── MCP4725_Trying.X.production.hex
+├── MCP4725_Test.pdsprj
+├── MCP4725_Test_Scheme.PDF
+├── MCP4725_Test_Chart.pdf
+├── MCP4725_Test.mp4
 
 ```
 
 ## Files
 
-* `MCP4725_Demo.c` — Test source code
-* `MCP4725_Demo.hex` — Compiled firmware
-* `MCP4725_Demo.pdsprj` — Proteus simulation project
-* `MCP4725_Demo_Schematic.pdf` — Test schematic
-* `MCP4725_Demo_Flowchart.pdf` — Test flowchart
-* `MCP4725_Demo.mp4` — Test demonstration video
+* `MCP4725_main.c` — Test source code
+* `MCP4725_Trying.X.production.hex` — Compiled firmware
+* `MCP4725_Test.pdsprj` — Proteus simulation project
+* `MCP4725_Test_Scheme.PDF` — Test schematic
+* `MCP4725_Test_Chart.pdf` — Test flowchart
+* `MCP4725_Test.mp4` — Test demonstration video
 
 ---
 

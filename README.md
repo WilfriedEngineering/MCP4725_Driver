@@ -301,7 +301,7 @@ Before using the driver, ensure that the following conditions are satisfied:
 * Ensure that the MCP4725 supply voltage and I²C signal levels are compatible with the connected hardware.
 
 ---
-# Demo Directory Guide
+# 11. Demo Directory Guide
 
 The `demo` directory contains the files required to understand and reproduce the **MCP4725 Driver** test.
 

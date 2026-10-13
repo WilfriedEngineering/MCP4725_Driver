@@ -312,7 +312,6 @@ demo/
 │
 ├── MCP4725_main.c
 ├── MCP4725_Trying.X.production.hex
-├── MCP4725_Test.pdsprj
 ├── MCP4725_Test_Scheme.PDF
 ├── MCP4725_Test_Chart.pdf
 ├── MCP4725_Test.mp4
@@ -323,7 +322,6 @@ demo/
 
 * `MCP4725_main.c` — Test source code
 * `MCP4725_Trying.X.production.hex` — Compiled firmware
-* `MCP4725_Test.pdsprj` — Proteus simulation project
 * `MCP4725_Test_Scheme.PDF` — Test schematic
 * `MCP4725_Test_Chart.pdf` — Test flowchart
 * `MCP4725_Test.mp4` — Test demonstration video
@@ -335,7 +333,7 @@ demo/
 The following documents should be consulted for detailed hardware information:
 
 * **Microchip PIC16F87XA Family Data Sheet**
-* **Microchip MCP4725 12-Bit DAC Data Sheet** — available in the `reference` folder
+* **Microchip MCP4725 12-Bit DAC Data Sheet**
 * **MPLAB XC8 Compiler Documentation**
 * **MPLAB X IDE Documentation**
 
